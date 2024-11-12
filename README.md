@@ -1,7 +1,23 @@
 # Labb EventLyssnare
 I denna laboration kommer du att arbeta med ``EventListeners`` och lära dig hur de fungerar. Målet är att skapa en enkel applikation där ett ``div``-element ändrar färg när muspekaren är över elementet och återgår till sin ursprungliga färg när muspekaren lämnar det.
 
-### Mål
+## Kom Igång
+
+1. Clona ner Övningsuppgiften.
+```javascript
+git clone LÄNK
+```
+3. installera alla node modules.
+```javascript
+npm i
+```
+5. Starta applikationen.
+```javascript
+npm run dev
+```
+7. Börja KODA!!!
+
+### Mål / Attribute
 - ``colorone`` bestämmer färgen som elementet ska ändra till när musen är över det.
 - ``colortwo`` är den ursprungliga färgen på elementet som återställs när musen lämnar.
 
