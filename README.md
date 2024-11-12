@@ -7,15 +7,15 @@ I denna laboration kommer du att arbeta med ``EventListeners`` och lära dig hur
 ```javascript
 git clone LÄNK
 ```
-3. installera alla node modules.
+2. installera alla node modules.
 ```javascript
 npm i
 ```
-5. Starta applikationen.
+3. Starta applikationen.
 ```javascript
 npm run dev
 ```
-7. Börja KODA!!!
+4. Börja KODA!!!
 
 ### Mål / Attribute
 - ``colorone`` bestämmer färgen som elementet ska ändra till när musen är över det.
@@ -165,7 +165,7 @@ customElements.define('my-div-box',
 </details>
 
 ### Steg 3 - Importera webbkomponenten
-I ``index.js``, importera webbkomponenten ``my-div-box`` så att den kan användas på sidan.
+I ``index.js`` (webcomponenten), importera webbkomponenten ``my-div-box`` så att den kan användas på sidan.
 
 <details>
   <summary>Klicka för att visa koden</summary>
